@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/favan/DEV/DSI1/Bcc/Bcc.csproj": {}
+    "E:\\Projects\\dotnet\\dsicc1\\Bcc.csproj": {}
   },
   "projects": {
-    "/home/favan/DEV/DSI1/Bcc/Bcc.csproj": {
+    "E:\\Projects\\dotnet\\dsicc1\\Bcc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/favan/DEV/DSI1/Bcc/Bcc.csproj",
+        "projectUniqueName": "E:\\Projects\\dotnet\\dsicc1\\Bcc.csproj",
         "projectName": "Bcc",
-        "projectPath": "/home/favan/DEV/DSI1/Bcc/Bcc.csproj",
-        "packagesPath": "/home/favan/.nuget/packages/",
-        "outputPath": "/home/favan/DEV/DSI1/Bcc/obj/",
+        "projectPath": "E:\\Projects\\dotnet\\dsicc1\\Bcc.csproj",
+        "packagesPath": "C:\\Users\\Arrow\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\dotnet\\dsicc1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/favan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Arrow\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -95,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
